@@ -1821,6 +1821,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [Golang Mountain View](https://www.meetup.com/Golang-Mountain-View/)
 * [Golang New York](https://www.meetup.com/nycgolang/)
 * [Golang Paris](https://www.meetup.com/Golang-Paris/)
+* [Golang Phoenix](https://www.meetup.com/Golang-Phoenix/)
 * [Golang Pune](https://www.meetup.com/Golang-Pune/)
 * [Golang Singapore](https://www.meetup.com/golangsg/)
 * [Golang Stockholm](https://www.meetup.com/Go-Stockholm/)
